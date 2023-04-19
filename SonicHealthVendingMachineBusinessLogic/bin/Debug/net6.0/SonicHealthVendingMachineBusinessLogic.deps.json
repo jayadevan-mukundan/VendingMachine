@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SonicHealthVendingMachineBusinessLogic/1.0.0": {
+        "dependencies": {
+          "SonicHealthVendingMachineDataAccess": "1.0.0"
+        },
+        "runtime": {
+          "SonicHealthVendingMachineBusinessLogic.dll": {}
+        }
+      },
+      "SonicHealthVendingMachineDataAccess/1.0.0": {
+        "runtime": {
+          "SonicHealthVendingMachineDataAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SonicHealthVendingMachineBusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SonicHealthVendingMachineDataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

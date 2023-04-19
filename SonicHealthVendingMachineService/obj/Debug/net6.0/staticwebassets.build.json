@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jRDjuKCE9i2rw4I1/m14ORqJLt20Ol8CzxuM/mleSws=",
+  "Source": "SonicHealthVendingMachineService",
+  "BasePath": "_content/SonicHealthVendingMachineService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
